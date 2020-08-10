@@ -1,4 +1,6 @@
-epic_tragedy = {
-  Montague: {},
-  Capulet: {}
-}
+def first_challenge
+   epic_tragedy = {
+     montague: {},
+     capulet: {}
+   }
+end
